@@ -7,7 +7,7 @@ This is a [T3](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 - [x] Make it deploy (vercel)
 - [x] Scaffold basic UI with mock data
 - [x] Tidy up build process
-- [] Setup Database (vercel postgres)
+- [x] Setup Database (vercel postgres)
 - [] Setup Authentication
 - [] Add Image Upload
 - [] Error management (w/ Sentry)
