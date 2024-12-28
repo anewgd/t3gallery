@@ -2,6 +2,9 @@
 import Link from "next/link";
 import { db } from "~/server/db";
 
+//Forces the page to be reloaded if a database change is detected
+export const dynamic = "force-dynamic";
+
 const mockURLs = [
   "https://utfs.io/f/zyRHyeDUR8B00PHs3YzLwWaEsezl47o8M5IUk0hQySJRdnA6",
   "https://utfs.io/f/zyRHyeDUR8B0W3TptgZBShVClPIG8p3Tx7Yegtwdmvz6aJZ1",
