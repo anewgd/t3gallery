@@ -10,6 +10,8 @@ This is a [T3](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 - [x] Setup Database (vercel postgres)
 - [x] Setup Authentication
 - [] Add Image Upload
+- [] taint (server only)
+- [] Use Next/Image Component
 - [] Error management (w/ Sentry)
 - [] Routing/image page (parallel route)
 - [] Delete button ( with Server Actions)
