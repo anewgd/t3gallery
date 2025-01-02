@@ -8,7 +8,7 @@ This is a [T3](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 - [x] Scaffold basic UI with mock data
 - [x] Tidy up build process
 - [x] Setup Database (vercel postgres)
-- [] Setup Authentication
+- [x] Setup Authentication
 - [] Add Image Upload
 - [] Error management (w/ Sentry)
 - [] Routing/image page (parallel route)
